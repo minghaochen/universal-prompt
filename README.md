@@ -92,4 +92,4 @@ After:
 
 ## License
 
-This project is licensed under the [MIT License](https://chat.openai.com/c/LICENSE).
+This project is licensed under the MIT License.

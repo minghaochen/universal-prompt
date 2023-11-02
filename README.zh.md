@@ -90,4 +90,5 @@ After:
 
 ## 许可证
 
-此项目采用[MIT许可证](https://chat.openai.com/c/LICENSE)。
+此项目采用MIT许可证。
+
